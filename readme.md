@@ -1,7 +1,7 @@
 <p align="center"><img src="/public/favicon.ico"></p> 
 
 <p align="center">
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://jps.sarjanakomputer.com/"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 </p>
 
 ## About Job Placement Sport
